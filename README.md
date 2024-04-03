@@ -1,3 +1,6 @@
+
+**Project: Image Color Inversion using OpenCV**
+
 **Project Requirements/Theme:**
 The project involves developing a mini-application that inverses the colors of an image. This is achieved using the color inversion algorithm implemented in C++ with the help of the OpenCV library. The algorithm iterates through each pixel of the image and inverses the color component values, resulting in an image that is the original image with inverted colors.
 
